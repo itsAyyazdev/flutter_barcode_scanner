@@ -124,3 +124,4 @@ would :heart: to see any contribution, give :star:  if you like
 
 E-mail: amol.gangadhare@gmail.com
 # flutter_barcode_scanner
+# flutter_barcode_scanner
